@@ -170,6 +170,13 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 1pt;
 }
 
+.heading1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: xx-large;
+    letter-spacing: 1pt;
+    color: white;
+}
 
 p {
     font-family: 'Raleway', sans-serif;
